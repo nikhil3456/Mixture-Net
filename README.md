@@ -85,4 +85,4 @@ MAE (formation energy) - 0.041 ev/atom
 
 The following figure variation of the MAE with the training data - 
 
-![MAE_variation](/home/mohit/Documents/mlns/Mixture-Net/MAE_variation.png)
+![MAE_variation](MAE_variation.png)
